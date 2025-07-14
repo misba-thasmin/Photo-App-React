@@ -64,6 +64,7 @@ const PhotoNav = () => {
     </div>
     <div class="carousel-item">
       <img src="https://i.pinimg.com/736x/11/a0/13/11a013cfeac023f5e970865b70c68275.jpg" class="d-block w-100" alt="..."/>
+      
     </div>
   </div>
 </div>
